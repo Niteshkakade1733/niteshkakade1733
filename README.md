@@ -124,7 +124,6 @@ I'm an SAP BASIS and SAP HANA Consultant with over 5+ years of experience in man
 - 🐧 Linux / SUSE administration
 - 🚨 Production and non-production support
 - 🎫 ServiceNow-based IT operations
-- 🏢 Experience supporting SPC, DED, PQA and ATLAS environments
 
 ---
 
@@ -148,8 +147,6 @@ DATABASE
 CLOUD
 ├── SAP BTP
 ├── SAP HANA Cloud
-├── HEC
-├── ECS
 ├── AWS
 ├── Microsoft Azure
 └── GCP
