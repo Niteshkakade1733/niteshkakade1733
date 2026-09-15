@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh <img src="https://github.com/Niteshkakade1733/niteshkakade1733/blob/main/Assets/Developer.gif" width="80px"> </h1>
 
 <h3 align="center">
-I'm an SAP BASIS and SAP HANA Consultant with over 3 years of experience in managing and optimizing SAP systems. My expertise spans across SAP ECC, S/4 HANA, System Monitoring, Database Administration, and Performance Optimization. I'm passionate about delivering high-quality solutions, ensuring system uptime, and driving operational excellence.
+I'm an SAP BASIS and SAP HANA Consultant with over 5+ years of experience in managing and optimizing SAP systems. My expertise spans across SAP BTP, ECC, S/4 HANA, System Monitoring, Database Administration, and Performance Optimization. I'm passionate about delivering high-quality solutions, ensuring system uptime, and driving operational excellence.
 </h3>
 
 <p> </p>
@@ -52,6 +52,147 @@ I'm an SAP BASIS and SAP HANA Consultant with over 3 years of experience in mana
 
 ---
 
+ # 🏢 SAP Landscape Experience
+
+ ### SAP Technologies
+
+ **SAP BASIS | SAP ECC | SAP S/4HANA | SAP HANA | SAP NetWeaver | SAP BTP**
+
+ ### SAP Operations
+
+ **Installation | Configuration | Upgrades | Kernel | SUM | SWPM | SPAM | SAINT | SNOTE | STMS | Client Copy | User Administration | Monitoring | Troubleshooting**
+
+ ### HANA
+
+ **Administration | Installation | Upgrade | Monitoring | Performance | Backup | Recovery | System Replication | HA/DR | Memory | CPU | SQL | HANA Studio | HANA Cockpit | HDBSQL | HDBLCM**
+
+ ### Cloud
+
+ **SAP BTP | SAP Cloud Connector | HANA Cloud | RISE with SAP | AWS | Azure | GCP | Hybrid Cloud**
+
+---
+
+ # 🔗 Hybrid SAP Architecture
+
+```
+                         ┌─────────────────────┐
+                         │       SAP BTP       │
+                         │                     │
+                         │ IAM | APIs | Cloud  │
+                         │ Integration | Apps  │
+                         └──────────┬──────────┘
+                                    │
+                           SAP Cloud Connector
+                                    │
+                ┌───────────────────┴───────────────────┐
+                │                                       │
+       ┌────────▼────────┐                    ┌─────────▼────────┐
+       │     SAP ECC     │                    │   SAP S/4HANA    │
+       │   DEV / QA /    │                    │    DEV / QA /    │
+       │      PRD        │                    │       PRD        │
+       └────────┬────────┘                    └─────────┬────────┘
+                │                                       │
+                └──────────────────┬────────────────────┘
+                                   │
+                            ┌──────▼──────┐
+                            │  SAP HANA   │
+                            │ DB | HA/DR  │
+                            │ System Rep. │
+                            └──────┬──────┘
+                                   │
+                 ┌─────────────────┼─────────────────┐
+                 │                 │                 │
+             ┌───▼───┐         ┌───▼───┐         ┌──▼────┐
+             │ Azure │         │  AWS  │         │  GCP  │
+             └───────┘         └───────┘         └───────┘
+```
+---
+
+---
+
+ # 🏆 Career Highlights
+
+ - 💼 **5+ years** of SAP BASIS & HANA experience
+- 🟩 SAP ECC & SAP S/4HANA administration
+- 🗄️ SAP HANA database administration
+- ☁️ SAP BTP administration
+- 🔗 Hybrid SAP cloud connectivity
+- 🌐 Multi-cloud SAP environments
+- 🔁 HANA HA/DR and System Replication
+- 💾 HANA backup and recovery
+- 📊 SAP & HANA performance monitoring
+- 🐧 Linux / SUSE administration
+- 🚨 Production and non-production support
+- 🎫 ServiceNow-based IT operations
+- 🏢 Experience supporting SPC, DED, PQA and ATLAS environments
+
+---
+
+ # 🧩 Core Technology Stack
+
+```
+SAP
+├── SAP BASIS
+├── SAP ECC
+├── SAP S/4HANA
+├── SAP NetWeaver
+└── SAP BTP
+
+DATABASE
+├── SAP HANA
+├── HANA Studio
+├── HANA Cockpit
+├── HDBSQL
+└── HDBLCM
+
+CLOUD
+├── SAP BTP
+├── SAP HANA Cloud
+├── HEC
+├── ECS
+├── AWS
+├── Microsoft Azure
+└── GCP
+
+CONNECTIVITY
+├── SAP Cloud Connector
+├── SAP Integration Suite
+├── APIs
+└── Hybrid Connectivity
+
+OPERATING SYSTEM
+├── Linux
+├── SUSE / SLES
+├── Unix
+└── Windows Server
+
+OPERATIONS
+├── Monitoring
+├── Performance
+├── Backup & Recovery
+├── HA / DR
+├── Incident Management
+├── Change Management
+└── ServiceNow
+```
+
+---
+
+ # 📚 Currently Exploring
+
+ - ☁️ Advanced SAP BTP Administration
+- 🚀 RISE with SAP
+- 🟩 SAP HANA Cloud
+- 🔗 SAP Integration Suite
+- 🔐 SAP Cloud IAM & Security
+- 🌐 Hybrid Cloud Architecture
+- 🔄 SAP S/4HANA Transformation
+- ☁️ SAP Cloud Infrastructure
+- 🛡️ SAP HA/DR
+- ⚙️ SAP Automation & Monitoring
+
+---
+
 ## 🎯 My Goals
 
 - **SAP HANA on Cloud**: Continue building expertise in SAP HANA's migration to cloud platforms (AWS, Azure, GCP) and optimizing cloud solutions.
@@ -68,3 +209,9 @@ I'm an SAP BASIS and SAP HANA Consultant with over 3 years of experience in mana
 - I’m passionate about **Continuous Learning** and regularly contribute to SAP community forums and blogs.
 
 Thanks for visiting my profile! If you have any questions or want to collaborate on SAP projects, feel free to reach out. Let’s make SAP systems more efficient together! 🚀
+
+
+
+
+
+
